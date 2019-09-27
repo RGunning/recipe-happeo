@@ -1,0 +1,13 @@
+{
+  "id": "happeo",
+  "name": "Happeo",
+  "version": "1.0.0",
+  "description": "Happeo",
+  "main": "index.js",
+  "author": "Richard Sahrakorpi <rjgunning+recipeHappeo@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.happeo.com",
+    "hasNotificationSound": true
+  }
+}
