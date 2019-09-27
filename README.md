@@ -1,6 +1,6 @@
 # Happeo for Franz
 
-This is the un-official Franz recipe for [Happeo](https://www.happeo.com/)
+This is the unofficial Franz recipe for [Happeo](https://www.happeo.com/)
 
 ## Requirements
 
