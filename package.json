@@ -5,6 +5,7 @@
   "description": "Happeo",
   "main": "index.js",
   "author": "Richard Sahrakorpi <rjgunning+recipeHappeo@gmail.com>",
+  "repository": "https://github.com/RGunning/recipe-happeo",
   "license": "MIT",
   "config": {
     "serviceURL": "https://app.happeo.com",
